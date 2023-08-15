@@ -1,4 +1,4 @@
-What is your Favorite Dinosaur app
+What is your Favorite Dinosaur app <br>
 Would like to work in Ed Tech! Here is an app for elemetary school ages.
 
 This app contains:
